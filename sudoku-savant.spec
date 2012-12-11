@@ -34,3 +34,10 @@ mkdir -p %{buildroot}%{_datadir}/pixmaps
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
 
+
+
+%changelog
+* Thu May 24 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.3-1
++ Revision: 800442
+- imported package sudoku-savant
+
