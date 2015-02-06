@@ -1,7 +1,7 @@
 Summary:	GTK+ Sudoku Game
 Name:		sudoku-savant
 Version:	1.3
-Release:	1
+Release:	2
 License:	GPLv3
 Group:		Games/Other
 Url:		http://sourceforge.net/projects/sudoku-savant/
