@@ -4,7 +4,7 @@ Version:	1.3
 Release:	2
 License:	GPLv3
 Group:		Games/Other
-Url:		http://sourceforge.net/projects/sudoku-savant/
+Url:		https://sourceforge.net/projects/sudoku-savant/
 Source0:	http://downloads.sourceforge.net/project/sudoku-savant/sudoku-savant/sudoku-savant-1.3/%{name}-%{version}.tar.bz2
 
 BuildRequires:	pkgconfig(gtk+-2.0)
